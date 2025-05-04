@@ -1,4 +1,4 @@
 # Git-demo
 This is my first Repository
 <br>
-Author - Isha 
+Author - Isha sharma
